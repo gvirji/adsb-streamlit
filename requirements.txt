@@ -1,0 +1,6 @@
+streamlit>=1.40
+plotly>=5.24
+pydeck
+pandas
+numpy
+scikit-learn
